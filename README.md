@@ -1,7 +1,7 @@
 # Project Proposal
 
 ## Members
-- [Maya Felix]((https://github.com/mxf4596))
+- [Maya Felix](https://github.com/mxf4596)
 
 ## Project title
 
